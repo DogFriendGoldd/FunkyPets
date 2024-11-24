@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ninhan_FLIPFLOP.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ninhan_week20000" x="0" y="0" width="831" height="855" frameX="0" frameY="-21" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20001" x="0" y="0" width="831" height="855" frameX="0" frameY="-21" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20002" x="831" y="0" width="831" height="861" frameX="0" frameY="-15" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20003" x="831" y="0" width="831" height="861" frameX="0" frameY="-15" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20004" x="1662" y="0" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20005" x="1662" y="0" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20006" x="2493" y="0" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20007" x="2493" y="0" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20008" x="0" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20009" x="0" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20010" x="831" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20011" x="831" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20012" x="1662" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20013" x="1662" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20014" x="2493" y="867" width="831" height="867" frameX="0" frameY="-9" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20015" x="0" y="1734" width="831" height="876"/>
+	<SubTexture name="ninhan_week20016" x="831" y="1734" width="831" height="876"/>
+	<SubTexture name="ninhan_week20017" x="1662" y="1734" width="831" height="861" frameX="0" frameY="-15" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20018" x="2493" y="1734" width="831" height="861" frameX="0" frameY="-15" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20019" x="0" y="2610" width="831" height="861" frameX="0" frameY="-15" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20020" x="831" y="2610" width="831" height="861" frameX="0" frameY="-15" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20021" x="1662" y="2610" width="831" height="870" frameX="0" frameY="-6" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20022" x="2493" y="2610" width="831" height="870" frameX="0" frameY="-6" frameWidth="831" frameHeight="876"/>
+	<SubTexture name="ninhan_week20023" x="2493" y="2610" width="831" height="870" frameX="0" frameY="-6" frameWidth="831" frameHeight="876"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"position": [
+		30,
+		0
+	],
+	"dialogue_pos": "center",
+	"scale": 1.45,
+	"image": "hf",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				1,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "talk1",
+			"loop_name": "talk1"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk2",
+			"idle_name": "talk2"
+		},
+		{
+			"loop_name": "talk3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk3",
+			"anim": "talk3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
