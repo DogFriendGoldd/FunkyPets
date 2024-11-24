@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DOG idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-4, 6],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DOG NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-13, -45],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOG NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-12, 29],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DOG NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-51, -4],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DOG NOTE RIGHT0",
+			"indices": []
+		}
+	],
+	"vocals_file": "dog",
+	"no_antialiasing": false,
+	"image": "characters/DOGFRIEDO",
+	"position": [10, 350],
+	"healthicon": "dogf",
+	"flip_x": true,
+	"healthbar_colors": [21, 20, 29],
+	"camera_position": [120, 0],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}
