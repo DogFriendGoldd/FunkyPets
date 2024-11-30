@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cross.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red0000" x="15" y="15" width="147" height="116"/>
+	<SubTexture name="white0000" x="177" y="15" width="147" height="116"/>
+</TextureAtlas>
