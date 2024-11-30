@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="refil.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fill0000" x="15" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0001" x="235" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0002" x="455" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0003" x="675" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0004" x="895" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0005" x="1115" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0006" x="1335" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0007" x="1555" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0008" x="1775" y="15" width="205" height="138"/>
+	<SubTexture name="Fill0009" x="15" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0010" x="235" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0011" x="455" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0012" x="675" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0013" x="895" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0014" x="1115" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0015" x="1335" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0016" x="1555" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0017" x="1775" y="168" width="205" height="138"/>
+	<SubTexture name="Fill0018" x="15" y="321" width="205" height="138"/>
+	<SubTexture name="Fill0019" x="235" y="321" width="205" height="138"/>
+	<SubTexture name="Fill0020" x="455" y="321" width="205" height="138"/>
+	<SubTexture name="Fill0021" x="675" y="321" width="205" height="138"/>
+	<SubTexture name="Fill0022" x="895" y="321" width="205" height="138"/>
+	<SubTexture name="Fill0023" x="1115" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0000" x="1335" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0001" x="1335" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0002" x="1555" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0003" x="1555" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0004" x="1775" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0005" x="1775" y="321" width="205" height="138"/>
+	<SubTexture name="Fin0006" x="15" y="474" width="205" height="138"/>
+	<SubTexture name="Fin0007" x="15" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0000" x="235" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0001" x="235" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0002" x="235" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0003" x="235" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0004" x="455" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0005" x="455" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0006" x="455" y="474" width="205" height="138"/>
+	<SubTexture name="Idle0007" x="455" y="474" width="205" height="138"/>
+</TextureAtlas>

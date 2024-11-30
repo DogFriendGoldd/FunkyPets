@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guns.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10000" x="15" y="15" width="708" height="583"/>
+	<SubTexture name="20000" x="738" y="15" width="675" height="583"/>
+	<SubTexture name="30000" x="15" y="613" width="675" height="583"/>
+	<SubTexture name="40000" x="705" y="613" width="675" height="583"/>
+	<SubTexture name="50000" x="15" y="1211" width="675" height="583"/>
+	<SubTexture name="60000" x="705" y="1211" width="675" height="583"/>
+</TextureAtlas>

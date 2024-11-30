@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boom0000" x="15" y="15" width="650" height="645" frameX="-425" frameY="-195" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0001" x="680" y="15" width="869" height="835" frameX="-425" frameY="0" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0002" x="1564" y="15" width="1074" height="784" frameX="-264" frameY="-230" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0003" x="1564" y="15" width="1074" height="784" frameX="-264" frameY="-230" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0004" x="2653" y="15" width="1139" height="1069" frameX="-150" frameY="-124" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0005" x="2653" y="15" width="1139" height="1069" frameX="-150" frameY="-124" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0006" x="2653" y="15" width="1139" height="1069" frameX="-150" frameY="-124" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0007" x="15" y="1099" width="1326" height="1133" frameX="-46" frameY="-204" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0008" x="15" y="1099" width="1326" height="1133" frameX="-46" frameY="-204" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0009" x="15" y="1099" width="1326" height="1133" frameX="-46" frameY="-204" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0010" x="15" y="1099" width="1326" height="1133" frameX="-46" frameY="-204" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0011" x="1356" y="1099" width="1365" height="860" frameX="-11" frameY="-290" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0012" x="1356" y="1099" width="1365" height="860" frameX="-11" frameY="-290" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0013" x="1356" y="1099" width="1365" height="860" frameX="-11" frameY="-290" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0014" x="15" y="2247" width="1394" height="601" frameX="-3" frameY="-299" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0015" x="15" y="2247" width="1394" height="601" frameX="-3" frameY="-299" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0016" x="1424" y="2247" width="1407" height="435" frameX="0" frameY="-356" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0017" x="1424" y="2247" width="1407" height="435" frameX="0" frameY="-356" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0018" x="15" y="2863" width="1393" height="429" frameX="-31" frameY="-338" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0019" x="15" y="2863" width="1393" height="429" frameX="-31" frameY="-338" frameWidth="1424" frameHeight="1337"/>
+	<SubTexture name="Boom0020" x="1423" y="2863" width="285" height="273" frameX="-617" frameY="-436" frameWidth="1424" frameHeight="1337"/>
+</TextureAtlas>
