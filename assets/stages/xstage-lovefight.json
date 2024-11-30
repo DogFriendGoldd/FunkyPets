@@ -1,0 +1,69 @@
+{
+	"camera_boyfriend": [
+		-150,
+		250
+	],
+	"_editorMeta": {
+		"boyfriend": "fightdf",
+		"gf": "gf",
+		"dad": "bf"
+	},
+	"girlfriend": [
+		423,
+		128
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		1016,
+		-74
+	],
+	"defaultZoom": 0.65,
+	"objects": [
+		{
+			"x": -624,
+			"y": -562,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "agarra",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		48,
+		216
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		-100,
+		0
+	]
+}
