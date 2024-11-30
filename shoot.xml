@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shoot.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10000" x="0" y="0" width="860" height="537"/>
+	<SubTexture name="20000" x="860" y="0" width="882" height="665"/>
+	<SubTexture name="30000" x="0" y="665" width="804" height="632"/>
+	<SubTexture name="40000" x="804" y="665" width="801" height="636"/>
+	<SubTexture name="50000" x="0" y="1301" width="791" height="707"/>
+	<SubTexture name="60000" x="791" y="1301" width="773" height="625"/>
+</TextureAtlas>
