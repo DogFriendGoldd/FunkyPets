@@ -1,0 +1,28 @@
+
+Uncaught Error: [file_open,mods\data\sloomed\sloomed-hard.json]
+In file C:\hostedtoolcache\windows\haxe\4.3.6\x64\std/cpp/_std/sys/io/File.hx: CLS:File:write()  Line:55
+In file C:\hostedtoolcache\windows\haxe\4.3.6\x64\std/cpp/_std/sys/io/File.hx: CLS:File:saveContent()  Line:39
+In file states/editors/ChartingState.hx: CLS:ChartingState:saveChart()  Line:4818
+In file states/editors/ChartingState.hx: CLS:ChartingState:addFileTab()  Line:3878
+In file backend/ui/PsychUIButton.hx: CLS:PsychUIButton:update()  Line:93
+In file flixel/group/FlxGroup.hx: CLS:FlxTypedGroup:update()  Line:151
+In file flixel/group/FlxSpriteGroup.hx: CLS:FlxTypedSpriteGroup:update()  Line:209
+In file backend/ui/PsychUITab.hx: CLS:PsychUITab:updateMenu()  Line:47
+In file backend/ui/PsychUIBox.hx: CLS:PsychUIBox:update()  Line:166
+In file flixel/group/FlxGroup.hx: CLS:FlxTypedGroup:update()  Line:151
+In file backend/MusicBeatState.hx: CLS:MusicBeatState:update()  Line:164
+In file states/editors/ChartingState.hx: CLS:ChartingState:update()  Line:991
+In file flixel/FlxState.hx: CLS:FlxState:tryUpdate()  Line:239
+In file flixel/FlxGame.hx: CLS:FlxGame:update()  Line:749
+In file flixel/FlxGame.hx: CLS:FlxGame:step()  Line:679
+In file flixel/FlxGame.hx: CLS:FlxGame:onEnterFrame()  Line:558
+In file openfl/events/EventDispatcher.hx: CLS:EventDispatcher:__dispatchEvent()  Line:426
+In file openfl/display/DisplayObject.hx: CLS:DisplayObject:__dispatch()  Line:1398
+----------
+Active mod: 
+Platform: Windows
+
+
+Please report this error to the GitHub page: https://github.com/Psych-Slice/P-Slice
+
+> Crash Handler written by: sqirra-rng

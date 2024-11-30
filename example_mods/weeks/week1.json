@@ -1,17 +1,20 @@
 {
-	"storyName": "GAtingameplays",
+	"storyName": "v1  fullweek  (week1)",
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hideStoryMode": false,
 	"songs": [
+		[
+			"Lunbop",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
 		[
 			"Hard TanQ",
 			"face",
@@ -31,6 +34,12 @@
 			]
 		]
 	],
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "v1 delete?"
 }

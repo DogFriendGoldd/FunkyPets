@@ -5,15 +5,36 @@
 	"weekBackground": "philly",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"hideStoryMode": false,
 	"songs": [
 		[
-			"Sloomed",
+			"Pico",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Philly Rocs",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammes",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Netal Time",
 			"face",
 			[
 				146,
@@ -22,6 +43,12 @@
 			]
 		]
 	],
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }
