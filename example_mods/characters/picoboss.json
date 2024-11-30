@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [227, -11],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [-82, -16],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [-43, 27],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [-12, -20],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [71, 203],
+			"anim": "angry",
+			"fps": 24,
+			"name": "Angry",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-70, 15],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Shoot",
+			"indices": [4, 5, 6, 7]
+		},
+		{
+			"loop": false,
+			"offsets": [-10, 260],
+			"anim": "stop",
+			"fps": 24,
+			"name": "Getup",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [110, 120],
+			"anim": "idle-panic",
+			"fps": 24,
+			"name": "Panic",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-30, -20],
+			"anim": "idle-walkl",
+			"fps": 24,
+			"name": "wl",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [59, -20],
+			"anim": "idle-walkr",
+			"fps": 24,
+			"name": "wr",
+			"indices": []
+		},
+		{
+			"offsets": [96, 4],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-ur",
+			"indices": [],
+			"name": "6"
+		},
+		{
+			"offsets": [12, 40],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-um",
+			"indices": [],
+			"name": "5"
+		},
+		{
+			"offsets": [85, 3],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-ul",
+			"indices": [],
+			"name": "4"
+		},
+		{
+			"offsets": [46, 10],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-m",
+			"indices": [],
+			"name": "2"
+		},
+		{
+			"offsets": [102, -1],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-r",
+			"indices": [],
+			"name": "3"
+		},
+		{
+			"offsets": [222, -15],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-l",
+			"indices": [1, 2],
+			"name": "1"
+		},
+		{
+			"loop": false,
+			"offsets": [26, 18],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -24],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PicoIdle",
+			"indices": []
+		},
+		{
+			"offsets": [50, 50],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "Hit"
+		},
+		{
+			"offsets": [0, -24],
+			"loop": false,
+			"fps": 24,
+			"anim": "defeat",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/picoBoss, characters/defeat, characters/picointro, characters/picohit",
+	"position": [0, 300],
+	"healthicon": "cass",
+	"flip_x": false,
+	"healthbar_colors": [255, 204, 0],
+	"camera_position": [-40, -160],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

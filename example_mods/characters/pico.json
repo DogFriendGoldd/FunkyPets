@@ -1,44 +1,44 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [0, 0],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
 		},
 		{
+			"offsets": [85, -17],
 			"loop": false,
-			"offsets": [55, -22],
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico Note Right0"
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
 		},
 		{
+			"offsets": [-88, -21],
 			"loop": false,
-			"offsets": [-88, -8],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
 		},
 		{
+			"offsets": [-35, 41],
 			"loop": false,
-			"offsets": [-59, 57],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [-20, -50],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
 		}
 	],
 	"vocals_file": "gergi",

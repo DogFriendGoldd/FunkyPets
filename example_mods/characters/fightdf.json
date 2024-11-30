@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [941, -43],
+			"anim": "right-block",
+			"fps": 24,
+			"name": "right-block0",
+			"indices": []
+		},
+		{
+			"offsets": [0, -390],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down-attack"
+		},
+		{
+			"offsets": [890, 335],
+			"indices": [],
+			"fps": 24,
+			"anim": "blockUP",
+			"loop": false,
+			"name": "up-block0"
+		},
+		{
+			"offsets": [880, -169],
+			"indices": [],
+			"fps": 24,
+			"anim": "blockDOWN",
+			"loop": false,
+			"name": "down-block0"
+		},
+		{
+			"offsets": [1339, 160],
+			"indices": [],
+			"fps": 24,
+			"anim": "blockLEFT",
+			"loop": false,
+			"name": "left-block0"
+		},
+		{
+			"offsets": [290, -28],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left-attack0"
+		},
+		{
+			"offsets": [37, -42],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right-attack0"
+		},
+		{
+			"offsets": [951, -41],
+			"indices": [],
+			"fps": 24,
+			"anim": "blockRIGHT",
+			"loop": false,
+			"name": "right-block0"
+		},
+		{
+			"offsets": [-1, 26],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up-attack0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fight-dogfriend",
+	"position": [0, 0],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [30, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

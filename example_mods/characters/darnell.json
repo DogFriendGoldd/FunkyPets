@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "singLEFT-hold",
+			"fps": 24,
+			"name": "Left Flame Loop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, -10],
+			"anim": "singDOWN-hold",
+			"fps": 24,
+			"name": "Down Flame Loop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "singUP-hold",
+			"fps": 24,
+			"name": "Up Flame Loop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 2],
+			"anim": "singRIGHT-hold",
+			"fps": 24,
+			"name": "Right Flame Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 1],
+			"anim": "laughCutscene",
+			"fps": 24,
+			"name": "Laugh",
+			"indices": [0, 1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5, 0, 1, 2, 3, 4, 5]
+		},
+		{
+			"loop": false,
+			"offsets": [8, 1],
+			"anim": "lightCan",
+			"fps": 24,
+			"name": "Light Can0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [15, 9],
+			"anim": "kickCan",
+			"fps": 24,
+			"name": "Kick Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [7, -1],
+			"anim": "kneeCan",
+			"fps": 24,
+			"name": "Knee Forward0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "pissed",
+			"fps": 24,
+			"name": "Gets Pissed0",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [100, -1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [60, -60],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [119, 20],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [119, -15],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/kenny",
+	"position": [80, 340],
+	"healthicon": "darnell",
+	"flip_x": false,
+	"healthbar_colors": [115, 94, 176],
+	"camera_position": [-110, 100],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -9,15 +9,7 @@
 			"name": "idle0"
 		},
 		{
-			"offsets": [1, 10],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "singLEFT"
-		},
-		{
-			"offsets": [1, -19],
+			"offsets": [-9, -29],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
@@ -25,7 +17,7 @@
 			"name": "singDOWN"
 		},
 		{
-			"offsets": [-7, 57],
+			"offsets": [-16, 16],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
@@ -33,18 +25,26 @@
 			"name": "singUP"
 		},
 		{
-			"offsets": [-4, 27],
+			"offsets": [178, -62],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
 			"loop": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [-15, -60],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "singRIGHT"
+			"loop": false,
+			"name": "singLEFT"
 		}
 	],
 	"vocals_file": "killerdog",
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
-	"position": [10, -10],
+	"position": [10, -50],
 	"healthicon": "sportan-virus",
 	"flip_x": false,
 	"healthbar_colors": [27, 25, 54],

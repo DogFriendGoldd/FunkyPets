@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-right",
+			"indices": [],
+			"name": "IR"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-wr",
+			"indices": [],
+			"name": "WR"
+		},
+		{
+			"offsets": [-20, 10],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-wl",
+			"indices": [],
+			"name": "WL"
+		},
+		{
+			"loop": false,
+			"offsets": [-32, 17],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-43, 9],
+			"anim": "idle-left",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-37, 9],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ALT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bfnpc",
+	"position": [0, 350],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [183, 216, 85],
+	"camera_position": [150, -330],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

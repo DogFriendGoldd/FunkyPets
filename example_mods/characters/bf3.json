@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"offsets": [-3, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [-4, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [294, 267],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [-40, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"offsets": [-43, 9],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [13, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [9, -42],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [-49, 55],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [-61, 13],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [8, 313],
+			"loop": false,
+			"fps": 24,
+			"anim": "KO",
+			"indices": [],
+			"name": "KO"
+		},
+		{
+			"offsets": [-39, 62],
+			"loop": false,
+			"fps": 24,
+			"anim": "tomato",
+			"indices": [],
+			"name": "BadF"
+		},
+		{
+			"offsets": [-39, 23],
+			"loop": false,
+			"fps": 24,
+			"anim": "good",
+			"indices": [],
+			"name": "Good"
+		},
+		{
+			"loop": false,
+			"offsets": [-30, 4],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [9, 5],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [13, -51],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-76, 67],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-64, 22],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-42, 14],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Hit",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf3",
+	"position": [0, 350],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [150, -330],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
