@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "door",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: Ta ligado aquele restaurante?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "door",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "DogFriend: Aug!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "p1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: La tem melhores almoços a gente tem que ir la"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatDaddy: Filha com quem voçe ta voçe ta conversando?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "p1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bat: Ninguem Especial pai, [Daqui a pouco te ligo dog]"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatDaddy: Abra a porta Bat"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que foi?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatinMommy: Essa é a roupa da sua festa de 19 anos?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: sim qual é o problema?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatDaddy: Desembucha! Quem voçe ta querendo sair?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: Ah SIM, è um rapper proficional mais falado da cidade"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "È O QUE!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "VOCE TEM NOÇÃO QUEM ELE É"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: Sim, Ele procura um amor da vida, ele parece ser muito bunito"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatDaddy: Voçe não pode ir com ele de jeito NENHUM"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: Calma PORQUE?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BattinMommy: Ele é quase em outra cidade e ele não e muito confiavel"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: Na verdade ele é bem elogiado nessa parte qual preconceito?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BattinMommy: Suas roupas são deselegantes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "VA PRO SEU QUARTO"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "t",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatFriend: Como Voçes podem me proibir por algo que eu posso ter responsabilidade?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "w",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Voçe tem certeza Bat?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "t",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "faça oque quiser voçes, eu vou encontrar com ele"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "t",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BatDaddy: Voçe me desafiou agora"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dog1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Porque me chamou aqui?"
+		}
+	]
+}
