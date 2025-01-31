@@ -1,0 +1,27 @@
+{
+	"storyName": "Unknow Guy",
+	"difficulties": "canon",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Sealing",
+			"dad",
+			[
+				115,
+				94,
+				176
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Poisoned Thing"
+}
