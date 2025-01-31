@@ -1,52 +1,52 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [16, 12],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "singLEFT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [0, -53],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "singDOWN",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-9, 20],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "singUP",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-3, 8],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "singRIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [0, 0],
-			"loop": false,
-			"fps": 24,
-			"anim": "dad-summon",
 			"indices": [],
-			"name": "dad-summon"
+			"name": "Idle"
+		},
+		{
+			"offsets": [16, 12],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [0, -53],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [-9, 20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [-3, 8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "dad-summon",
+			"fps": 24,
+			"name": "dad-summon",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
@@ -56,7 +56,7 @@
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [102, 51, 153],
-	"camera_position": [-250, 0],
+	"camera_position": [120, 0],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false
