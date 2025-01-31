@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gabi-worried.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gabi idle0000" x="0" y="0" width="374" height="601" frameX="0" frameY="-1" frameWidth="375" frameHeight="602"/>
+	<SubTexture name="gabi idle0001" x="0" y="0" width="374" height="601" frameX="0" frameY="-1" frameWidth="375" frameHeight="602"/>
+	<SubTexture name="gabi idle0002" x="374" y="0" width="375" height="601" frameX="0" frameY="-1" frameWidth="375" frameHeight="602"/>
+	<SubTexture name="gabi idle0003" x="374" y="0" width="375" height="601" frameX="0" frameY="-1" frameWidth="375" frameHeight="602"/>
+	<SubTexture name="gabi idle0004" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0005" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0006" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0007" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0008" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0009" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0010" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0011" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0012" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0013" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0014" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0015" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0016" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0017" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0018" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0019" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0020" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0021" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0022" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0023" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0024" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0025" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0026" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0027" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0028" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0029" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0030" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0031" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0032" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0033" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0034" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0035" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0036" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0037" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0038" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0039" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0040" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0041" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0042" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0043" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0044" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0045" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0046" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0047" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0048" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0049" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0050" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0051" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0052" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0053" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0054" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0055" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0056" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0057" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0058" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0059" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0060" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0061" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0062" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0063" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0064" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0065" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0066" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0067" x="749" y="0" width="375" height="602"/>
+	<SubTexture name="gabi idle0068" x="749" y="0" width="375" height="602"/>
+</TextureAtlas>
