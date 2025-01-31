@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [65, 19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [-2, -24],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [4, 36],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [-4, 19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "dad-summon",
+			"fps": 24,
+			"name": "dad-summon",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "scorpion",
+	"no_antialiasing": false,
+	"image": "characters/poisoned/DDS_Corrupted",
+	"position": [0, -40],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [102, 51, 153],
+	"camera_position": [100, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
