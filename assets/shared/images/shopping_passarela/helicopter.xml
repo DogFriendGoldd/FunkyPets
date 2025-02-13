@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="helicopter.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Animated10000" x="0" y="0" width="1020" height="499" frameX="-40" frameY="-32" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10001" x="1020" y="0" width="1025" height="511" frameX="-39" frameY="-32" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10002" x="2045" y="0" width="1038" height="541" frameX="-35" frameY="-28" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10003" x="0" y="541" width="1028" height="512" frameX="-38" frameY="-47" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10004" x="1028" y="541" width="1026" height="513" frameX="-37" frameY="-48" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10005" x="2054" y="541" width="1066" height="520" frameX="0" frameY="-39" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10006" x="0" y="1061" width="1035" height="534" frameX="-36" frameY="-31" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10007" x="1035" y="1061" width="1026" height="509" frameX="-37" frameY="-34" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10008" x="2061" y="1061" width="1020" height="499" frameX="-40" frameY="-21" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10009" x="0" y="1595" width="1020" height="499" frameX="-40" frameY="-10" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10010" x="1020" y="1595" width="1023" height="507" frameX="-39" frameY="0" frameWidth="1073" frameHeight="569"/>
+	<SubTexture name="Animated10011" x="0" y="0" width="1020" height="499" frameX="-40" frameY="-16" frameWidth="1073" frameHeight="569"/>
+</TextureAtlas>

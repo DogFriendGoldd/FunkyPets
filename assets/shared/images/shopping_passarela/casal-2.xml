@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="casal-2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="casal idle 20000" x="0" y="0" width="432" height="669" frameX="0" frameY="-23" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20001" x="0" y="0" width="432" height="669" frameX="0" frameY="-23" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20002" x="432" y="0" width="415" height="683" frameX="-8" frameY="-8" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20003" x="432" y="0" width="415" height="683" frameX="-8" frameY="-8" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20004" x="847" y="0" width="390" height="691" frameX="-21" frameY="0" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20005" x="847" y="0" width="390" height="691" frameX="-21" frameY="0" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20006" x="847" y="0" width="390" height="691" frameX="-21" frameY="0" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20007" x="847" y="0" width="390" height="691" frameX="-21" frameY="0" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20008" x="847" y="0" width="390" height="691" frameX="-21" frameY="0" frameWidth="432" frameHeight="692"/>
+	<SubTexture name="casal idle 20009" x="847" y="0" width="390" height="691" frameX="-21" frameY="0" frameWidth="432" frameHeight="692"/>
+</TextureAtlas>

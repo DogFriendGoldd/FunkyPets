@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="combocount.png">
+<SubTexture name="0 0000" x="0" y="0" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="1 0000" x="168" y="0" width="28" height="67" frameX="-2" frameY="-2" frameWidth="22" frameHeight="61" />
+<SubTexture name="2 0000" x="42" y="0" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="3 0000" x="84" y="0" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="4 0000" x="196" y="0" width="42" height="67" frameX="-2" frameY="-2" frameWidth="36" frameHeight="61" />
+<SubTexture name="5 0000" x="126" y="0" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="6 0000" x="0" y="68" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="7 0000" x="42" y="68" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="8 0000" x="84" y="68" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+<SubTexture name="9 0000" x="126" y="68" width="42" height="68" frameX="-2" frameY="-2" frameWidth="36" frameHeight="62" />
+</TextureAtlas>

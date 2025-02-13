@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evaluation.png">
+<SubTexture name="PERFECT0000" x="0" y="0" width="228" height="70" frameX="-2" frameY="-2" frameWidth="222" frameHeight="64" />
+<SubTexture name="GOOD0000" x="0" y="70" width="152" height="70" frameX="-2" frameY="-2" frameWidth="146" frameHeight="64" />
+<SubTexture name="GREAT0000" x="0" y="140" width="177" height="70" frameX="-2" frameY="-2" frameWidth="171" frameHeight="64" />
+<SubTexture name="BAD0000" x="228" y="0" width="107" height="70" frameX="-2" frameY="-2" frameWidth="101" frameHeight="64" />
+<SubTexture name="MISS0000" x="0" y="210" width="152" height="70" frameX="-2" frameY="-2" frameWidth="146" frameHeight="64" />
+<SubTexture name="DODGED0000" x="335" y="0" width="209" height="70" frameX="-2" frameY="-2" frameWidth="203" frameHeight="64" />
+</TextureAtlas>
