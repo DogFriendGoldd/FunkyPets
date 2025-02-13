@@ -304,7 +304,7 @@ class FreeplayState extends MusicBeatSubstate
 		sparksADD = new FlxSprite(0, 0);
 		txtCompletion = new AtlasText(1185, 87, '69', AtlasFont.FREEPLAY_CLEAR);
 
-		ostName = new FlxText(8, 8, FlxG.width - 8 - 8, 'OFFICIAL OST', 48);
+		ostName = new FlxText(8, 8, FlxG.width - 8 - 8, 'Funky Pets Oficial Track', 48);
 		charSelectHint = new FlxText(-40, 18, FlxG.width - 8 - 8, 'Press [ LOL ] to change characters', 32);
 
 		bgDad = new FlxSprite(backingCard.pinkBack.width * 0.74, 0).loadGraphic(styleData == null ? 'freeplay/freeplayBGdad' : styleData.getBgAssetGraphic());
