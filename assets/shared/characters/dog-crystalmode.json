@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [7, -74],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-65, 124],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [-4, 4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [239, -13],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		}
+	],
+	"vocals_file": "dog",
+	"no_antialiasing": false,
+	"image": "characters/dog-crystalmode",
+	"position": [20, 190],
+	"healthicon": "dogd",
+	"flip_x": true,
+	"healthbar_colors": [201, 201, 255],
+	"camera_position": [220, 70],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
