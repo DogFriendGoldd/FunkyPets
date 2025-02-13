@@ -1,0 +1,196 @@
+{
+	"camera_boyfriend": [
+		-100,
+		-200
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "dog-crystalmode",
+		"dad": "otis",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1530,
+		556
+	],
+	"stageUI": "",
+	"girlfriend": [
+		134,
+		466
+	],
+	"defaultZoom": 0.45,
+	"objects": [
+		{
+			"x": -2413,
+			"y": -846,
+			"scale": [
+				0.9,
+				0.9
+			],
+			"image": "ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1825,
+			"y": -241,
+			"scale": [
+				1,
+				1
+			],
+			"image": "shopping_passarela/helicopter",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite4",
+			"firstAnimation": "1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "1",
+					"loop": true,
+					"name": "Animated1"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1100,
+			"y": 553,
+			"scale": [
+				1,
+				1
+			],
+			"image": "shopping_passarela/casal-1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite3",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "idle",
+					"loop": true,
+					"name": "Casal Idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -112,
+			"y": 477,
+			"scale": [
+				1,
+				1
+			],
+			"image": "shopping_passarela/casal-2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "idle",
+					"loop": true,
+					"name": "casal idle 2"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": 1890,
+			"y": 1126,
+			"scale": [
+				1,
+				1
+			],
+			"image": "shopping_passarela/tools",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite5",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-1212,
+		572
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		-200
+	]
+}

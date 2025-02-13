@@ -1,0 +1,130 @@
+{
+	"camera_boyfriend": [
+		200,
+		50
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dc",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		697,
+		112
+	],
+	"stageUI": "",
+	"girlfriend": [
+		268,
+		116
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": -759,
+			"y": -662,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg_5",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite3",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -472,
+			"y": -225,
+			"scale": [
+				1,
+				1
+			],
+			"image": "sacada/ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -254,
+			"y": 265,
+			"scale": [
+				3.25,
+				3.25
+			],
+			"image": "sacada/particlesBG",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"indices": [],
+					"name": "particlesBG"
+				}
+			],
+			"type": "animatedSprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		88,
+		94
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		-100,
+		100
+	]
+}
